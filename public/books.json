@@ -1,0 +1,131 @@
+[
+  {
+    "id": 0,
+    "title": "Beginning Git and GitHubроисхождение",
+    "author": "Mariot Tsitoara",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/12/Beginning-Git-and-GitHub.jpg",
+    "price": 71,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "JavaScript Frameworks for Modern Web Development, 2nd Edition",
+    "author": "Nicholas Cloud, Sufyan bin Uzayr, Tim Ambler",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/11/JavaScript-Frameworks-for-Modern-Web-Development.jpg",
+    "price": 41,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Next",
+    "author": "Raju Gandhi",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/10/JavaScript-Next.jpg",
+    "price": 46,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Practical Node.js, 2nd Edition",
+    "author": "Azat Mardan",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/08/Practical-Node.js-2nd-Edition.jpg",
+    "price": 74,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "PHP 7 Solutions, 4th Edition",
+    "author": "David Powers",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/07/PHP-7-Solutions-4th-Edition.jpg",
+    "price": 31,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "HTML5 Quick Markup Reference",
+    "author": "Wallace Jackson",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/07/HTML5-Quick-Markup-Reference.jpg",
+    "price": 25,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "CSS3 Quick Syntax Reference, 2nd Edition",
+    "author": "Mikael Olsson",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/06/CSS3-Quick-Syntax-Reference-2nd-Edition.jpg",
+    "price": 57,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "Progressive Web Apps with Angular",
+    "author": "Majid Hajian",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/05/Progressive-Web-Apps-with-Angular.jpg",
+    "price": 60,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "Learn Computer Vision Using OpenCV",
+    "author": "Sunila Gollapudi",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/04/Agile-Project-Management-with-Azure-DevOps1.jpg",
+    "price": 34,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Practical Computer Vision with SimpleCV",
+    "author": "Anthony Oliver, Katherine Scott, Kurt Demaagd, Nathan Oostendorp",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/04/Practical-Computer-Vision-with-SimpleCV.jpg",
+    "price": 88,
+    "rating": 2
+  },
+  {
+    "id": 10,
+    "title": "WordPress Plugin Development Cookbook",
+    "author": "Yannick Lefebvre",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/04/WordPress-Plugin-Development-Cookbook-400x494.jpg",
+    "price": 82,
+    "rating": 1
+  },
+  {
+    "id": 11,
+    "title": "Enterprise Development with Flex",
+    "author": "Anatole Tartakovsky, Victor Rasputnis, Yakov Fain",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/04/Enterprise-Development-with-Flex.jpg",
+    "price": 38,
+    "rating": 2
+  },
+  {
+    "id": 12,
+    "title": "HTML5 in Action",
+    "author": "Ash Blue, Greg Wanish, Joe Lennon, Rob Crowther",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2019/04/HTML5-in-Action.jpg",
+    "price": 42,
+    "rating": 3
+  },
+  {
+    "id": 13,
+    "title": "Building Chatbots with Python",
+    "author": "Sumit Raj",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2018/12/Building-Chatbots-with-Python.jpg",
+    "price": 15,
+    "rating": 2
+  },
+  {
+    "id": 14,
+    "title": "Understanding Game Application Development",
+    "author": "Vincent Maverick S. Durano",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2018/12/Understanding-Game-Application-Development.jpg",
+    "price": 64,
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "title": "UX for Developers",
+    "author": "Westley Knight",
+    "image": "http://www.allitebooks.org/wp-content/uploads/2018/12/UX-for-Developers.jpg",
+    "price": 47,
+    "rating": 4
+  }
+  
+]
